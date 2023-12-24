@@ -1,0 +1,15 @@
+C:\GB\GIT\Lesson1\Task1\bin\Debug\net8.0\Task1.exe
+C:\GB\GIT\Lesson1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\GB\GIT\Lesson1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\GB\GIT\Lesson1\Task1\bin\Debug\net8.0\Task1.dll
+C:\GB\GIT\Lesson1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.dll
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\GB\GIT\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
