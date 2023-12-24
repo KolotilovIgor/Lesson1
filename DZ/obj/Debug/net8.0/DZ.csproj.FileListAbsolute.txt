@@ -1,0 +1,15 @@
+C:\GB\GIT\Lesson1\DZ\bin\Debug\net8.0\DZ.exe
+C:\GB\GIT\Lesson1\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\GB\GIT\Lesson1\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\GB\GIT\Lesson1\DZ\bin\Debug\net8.0\DZ.dll
+C:\GB\GIT\Lesson1\DZ\bin\Debug\net8.0\DZ.pdb
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.dll
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.pdb
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\GB\GIT\Lesson1\DZ\obj\Debug\net8.0\ref\DZ.dll
