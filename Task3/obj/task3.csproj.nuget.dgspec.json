@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\GIT\\Lesson1\\task3\\task3.csproj": {}
+    "C:\\GB\\GIT\\Lesson1\\Task3\\task3.csproj": {}
   },
   "projects": {
-    "C:\\GB\\GIT\\Lesson1\\task3\\task3.csproj": {
+    "C:\\GB\\GIT\\Lesson1\\Task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\GIT\\Lesson1\\task3\\task3.csproj",
+        "projectUniqueName": "C:\\GB\\GIT\\Lesson1\\Task3\\task3.csproj",
         "projectName": "task3",
-        "projectPath": "C:\\GB\\GIT\\Lesson1\\task3\\task3.csproj",
+        "projectPath": "C:\\GB\\GIT\\Lesson1\\Task3\\task3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\GIT\\Lesson1\\task3\\obj\\",
+        "outputPath": "C:\\GB\\GIT\\Lesson1\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
